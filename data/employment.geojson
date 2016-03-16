@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Albania",
+        "Country Code": "ALB",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 40.2000007629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Andorra",
+        "Country Code": "ADO",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": ".."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5167,
+          42.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Armenia",
+        "Country Code": "ARM",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 55.5999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5167,
+          40.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Austria",
+        "Country Code": "AUT",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 86.6999969482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Azerbaijan",
+        "Country Code": "AZE",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 33.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7,
+          40.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Belarus",
+        "Country Code": "BLR",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 94.1999969482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.55,
+          53.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Belgium",
+        "Country Code": "BEL",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 84.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35,
+          50.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Bosnia and Herzegovina",
+        "Country Code": "BIH",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 74.5999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Bulgaria",
+        "Country Code": "BGR",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 87.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          42.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Croatia",
+        "Country Code": "HRV",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 81.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16,
+          45.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Cyprus",
+        "Country Code": "CYP",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 82.4000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Czech Republic",
+        "Country Code": "CZE",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 82.0999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.75,
+          49.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Denmark",
+        "Country Code": "DNK",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57,
+          55.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Estonia",
+        "Country Code": "EST",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 90.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Finland",
+        "Country Code": "FIN",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 86.5999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "France",
+        "Country Code": "FRA",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 88.8000030518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Germany",
+        "Country Code": "DEU",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 88.8000030518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3833,
+          52.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Greece",
+        "Country Code": "GRC",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Georgia",
+        "Country Code": "GEO",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 38.4000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1132,
+          32.9605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Hungary",
+        "Country Code": "HUN",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 88.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.25,
+          47.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Ireland",
+        "Country Code": "IRL",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 82.6999969482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2675,
+          53.3442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Iceland",
+        "Country Code": "ISL",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 86.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Italy",
+        "Country Code": "ITA",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 75.3000030518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4833,
+          41.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Kazakhstan",
+        "Country Code": "KAZ",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 69.4000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68,
+          48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Kosovo",
+        "Country Code": "KSV",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 74.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.85,
+          42.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Latvia",
+        "Country Code": "LVA",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 88.4000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Luxembourg",
+        "Country Code": "LUX",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 90.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1167,
+          49.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Lithuania",
+        "Country Code": "LTU",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 88.1999969482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Macedonia, FYR",
+        "Country Code": "MKD",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 71.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7,
+          41.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Malta",
+        "Country Code": "MLT",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 86.0999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          35.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Moldova",
+        "Country Code": "MDA",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 68.8000030518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9167,
+          47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Montenegro",
+        "Country Code": "MNE",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 82.4000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4667,
+          42.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Netherlands",
+        "Country Code": "NLD",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 83.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55,
+          52.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Norway",
+        "Country Code": "NOR",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Poland",
+        "Country Code": "POL",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 78.1999969482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0333,
+          52.2167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Portugal",
+        "Country Code": "PRT",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 78.0999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1833,
+          38.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Romania",
+        "Country Code": "ROM",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 67.8000030518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Russia",
+        "Country Code": "RUS",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 92.6999969482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90,
+          60
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "San Marino",
+        "Country Code": "SMR",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 90.8000030518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4667,
+          43.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Slovakia",
+        "Country Code": "SVK",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 84.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.116,
+          48.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Slovenia",
+        "Country Code": "SVN",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 83.0999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Spain",
+        "Country Code": "ESP",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 82.0999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7,
+          40.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Sweden",
+        "Country Code": "SWE",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 89.4000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0667,
+          59.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Switzerland",
+        "Country Code": "CHE",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 84.6999969482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3333,
+          46.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Serbia",
+        "Country Code": "SRB",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 67.5999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4667,
+          44.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Turkey",
+        "Country Code": "TUR",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 64.0999984741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8333,
+          39.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "United Kingdom",
+        "Country Code": "GBR",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1167,
+          51.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country Name": "Ukraine",
+        "Country Code": "UKR",
+        "Series Name": "Wage and salaried workers, total (% of total employed)",
+        "Most Recent Value [YR20111]": 80.9000015259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32,
+          49
+        ]
+      }
+    }
+  ]
+}
